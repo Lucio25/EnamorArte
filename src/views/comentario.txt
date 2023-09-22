@@ -1,0 +1,2 @@
+van los componentesb principales, a diferencia de components, aqui van las q van directo al router (routes)
+vamos a tener carpetas como home, o login, donde van los archivos principales

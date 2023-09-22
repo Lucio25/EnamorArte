@@ -1,0 +1,3 @@
+aqui guardamos componentes muy genericos y globales a lo largo del proyecto, ejemplo listas, forms, botones
+no poner componentes q solo se usen en un lugar, poner que se puedan reusar
+podemos crear varias carpetas o archivos enteros, por ejemplo una carpeta forms donde guardamos todos los archivos de distintos forms, o un archivo form q tenga todos los forms
