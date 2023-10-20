@@ -1,1 +1,0 @@
-guardar utilerias importantes, ej la api, dentro se crean mas carpetas como api, functions hooks
